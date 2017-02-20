@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<properties>
+
+  <entry
+      key="somekey"><![CDATA[This string has six words <var name="{{year}}"/>]]>
+  </entry>
+
+</properties>
+
